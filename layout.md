@@ -1,7 +1,5 @@
 untitled.html
 t5dg022erv8.html
-i991uoeac08.html
-160ruhp81uk.html
 577j8vfgpug.html
 rqomruura4k.html
 cnpgofdpol4.html
