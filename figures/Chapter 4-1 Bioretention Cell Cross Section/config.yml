@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Chapter 4-1 Bioretention Cell Cross Section/Chapter 4-1 Bioretention
+      Cell Cross Section.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/75497/articles/196728/master/file/figures/Chapter%204-1%20Bioretention%20Cell%20Cross%20Section/Chapter%204-1%20Bioretention%20Cell%20Cross%20Section.png"
