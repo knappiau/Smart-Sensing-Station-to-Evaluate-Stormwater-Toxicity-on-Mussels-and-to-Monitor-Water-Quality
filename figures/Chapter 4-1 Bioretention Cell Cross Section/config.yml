@@ -1,7 +1,7 @@
 ---
 version: 2
 multicolumn: false
-web-width: 500px
+web-width: 800
 align: center
 float: h!
 grid:
@@ -18,3 +18,5 @@ grid:
     - 1
     - 1
     url: "/users/75497/articles/196728/master/file/figures/Chapter%204-1%20Bioretention%20Cell%20Cross%20Section/Chapter%204-1%20Bioretention%20Cell%20Cross%20Section.png"
+    folder_url: "/users/75497/articles/196728/master/folder/figures/Chapter 4-1 Bioretention
+      Cell Cross Section"
