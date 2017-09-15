@@ -7,4 +7,6 @@ figures/Figure3
 07epaf6roig.html
 figures/Figure1
 d1cmcocnbmg.html
+figures/Sensor-01
+1d2fntg18p.html
 r1bfkvhua.html
