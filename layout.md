@@ -9,4 +9,3 @@ figures/Figure1
 d1cmcocnbmg.html
 figures/Sensor-01
 1d2fntg18p.html
-skk7llof4g8.html
