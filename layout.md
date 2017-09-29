@@ -8,6 +8,8 @@ m41dot9aqh.html
 3s2omv8qta.html
 cmd413k7cm.html
 derro4eiqn.html
+epnt6ncbu6.html
+cscpj1eg58g.html
 goujdnj12sg.html
 figures/Schematic-01
 pl45s6dlk6g.html
