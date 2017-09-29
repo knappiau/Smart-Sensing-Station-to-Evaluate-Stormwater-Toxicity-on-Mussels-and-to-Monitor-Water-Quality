@@ -16,7 +16,6 @@ qhdhcapkrmo.tex
 r062uplj4k8.tex
 j2iblplsmj8.html
 figures/Sensor-01
-68m41u929lg.tex
 epkke06vih.html
 figures/Schematic-01
 pl45s6dlk6g.html
