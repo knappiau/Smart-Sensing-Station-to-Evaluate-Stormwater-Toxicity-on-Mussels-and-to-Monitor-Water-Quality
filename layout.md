@@ -8,8 +8,6 @@ q0knkatl4lg.html
 81eevfflre8.html
 5rqrlh3nvh.html
 38755qvn6co.html
-g1u8ur8avng.html
-tfrk0me57v8.html
 psl1fbbusvo.html
 figures/Schematic-01
 pl45s6dlk6g.html
