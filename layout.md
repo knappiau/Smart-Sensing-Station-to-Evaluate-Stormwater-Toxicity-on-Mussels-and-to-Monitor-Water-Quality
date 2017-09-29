@@ -15,8 +15,6 @@ tfrk0me57v8.html
 psl1fbbusvo.html
 ugv9c3bmudo.html
 vi7qsbfbhvo.html
-butb6lt9vs8.html
-tf71enelgng.html
 figures/Schematic-01
 pl45s6dlk6g.html
 figures/Figure3
