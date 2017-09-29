@@ -3,6 +3,21 @@ df8h35rl8g8.html
 0lkpmuoulh8.html
 figures/Chapter 4-1 Bioretention Cell Cross Section
 h2p6d97sl1.html
+q0knkatl4lg.html
+62g00l45fao.html
+81eevfflre8.html
+5rqrlh3nvh.html
+38755qvn6co.html
+g1u8ur8avng.html
+l0t3mvncsu8.html
+8kjnaekpm58.html
+tfrk0me57v8.html
+psl1fbbusvo.html
+ugv9c3bmudo.html
+vi7qsbfbhvo.html
+butb6lt9vs8.html
+tf71enelgng.html
+jb1hjs6d0po.html
 figures/Schematic-01
 pl45s6dlk6g.html
 figures/Figure3
