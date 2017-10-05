@@ -21,6 +21,9 @@ sjr0rq70og.html
 62r9d36lij.html
 figures/Mussels-01
 d9qse8i1038.html
+6p4b7eebqu.html
+4n54hrelni8.html
+mdco7bq037g.html
 figures/Schematic-01
 pl45s6dlk6g.html
 figures/Figure3
