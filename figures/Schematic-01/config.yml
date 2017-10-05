@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/Schematic-01/Schematic.png
+  - path: figures/Schematic-01/Schematic-01.png
     type: static
     from:
     - 1
@@ -17,4 +17,4 @@ grid:
     - 1
     - 1
     folder_url: "/users/75497/articles/196728/master/folder/figures/Schematic-01"
-    url: "/users/75497/articles/196728/master/file/figures/Schematic-01/Schematic.png"
+    url: "/users/75497/articles/196728/master/file/figures/Schematic-01/Schematic-01.png"
