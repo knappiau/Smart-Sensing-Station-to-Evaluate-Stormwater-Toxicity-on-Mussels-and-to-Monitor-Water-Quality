@@ -28,6 +28,5 @@ figures/Schematic-01
 pl45s6dlk6g.html
 figures/Figure3
 07epaf6roig.html
-figures/Figure1
 d1cmcocnbmg.html
 1d2fntg18p.html
