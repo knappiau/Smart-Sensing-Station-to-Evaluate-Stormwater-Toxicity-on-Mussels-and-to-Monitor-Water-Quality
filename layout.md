@@ -16,6 +16,8 @@ r062uplj4k8.tex
 j2iblplsmj8.html
 figures/Sensor-01
 epkke06vih.html
+pmhkjtl3loo.html
+j1oqeshko98.html
 buuo7ku3beg.html
 sjr0rq70og.html
 62r9d36lij.html
