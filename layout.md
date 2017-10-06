@@ -30,4 +30,3 @@ figures/Schematic-01
 pl45s6dlk6g.html
 07epaf6roig.html
 d1cmcocnbmg.html
-1d2fntg18p.html
