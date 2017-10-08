@@ -22,7 +22,6 @@ sjr0rq70og.html
 62r9d36lij.html
 figures/Mussels-01
 d9qse8i1038.html
-62shmjsv5hg.html
 ann3l0uie3g.html
 b27ldfi6rl.html
 3e3ga4mm0og.html
