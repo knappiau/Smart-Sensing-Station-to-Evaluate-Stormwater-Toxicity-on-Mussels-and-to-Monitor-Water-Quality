@@ -27,7 +27,6 @@ d9qse8i1038.html
 ann3l0uie3g.html
 b27ldfi6rl.html
 3e3ga4mm0og.html
-s4casgnvj1.html
 figures/Schematic-01
 pl45s6dlk6g.html
 d1cmcocnbmg.html
