@@ -29,3 +29,5 @@ figures/Schematic-01
 pl45s6dlk6g.html
 07epaf6roig.html
 d1cmcocnbmg.html
+figures/Network-01
+u050qb46ot8.html
