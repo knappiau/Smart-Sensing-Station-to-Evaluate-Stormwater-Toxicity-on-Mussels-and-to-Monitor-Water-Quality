@@ -17,15 +17,13 @@ j2iblplsmj8.html
 figures/Sensor-01
 epkke06vih.html
 pmhkjtl3loo.html
-pn7q4e9ie3o.html
 cla4nk3a1cg.html
 buuo7ku3beg.html
 sjr0rq70og.html
 62r9d36lij.html
 figures/Mussels-01
 d9qse8i1038.html
-b27ldfi6rl.html
-3e3ga4mm0og.html
+mjr06olo8uo.html
 figures/Schematic-01
 pl45s6dlk6g.html
 d1cmcocnbmg.html
