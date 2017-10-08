@@ -31,7 +31,6 @@ s4casgnvj1.html
 dd7d9at49do.html
 6p4b7eebqu.html
 4n54hrelni8.html
-mdco7bq037g.html
 figures/Schematic-01
 pl45s6dlk6g.html
 d1cmcocnbmg.html
